@@ -1,0 +1,53 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "firstName": "Michelle",
+      "lastName": "Mulroy",
+      "gender": "female",
+      "fav": false
+    },
+    {
+      "id": 2,
+      "firstName": "Venkat",
+      "lastName": "Subramanian",
+      "gender": "male",
+      "fav": true
+    },
+    {
+      "id": 3,
+      "firstName": "Matt",
+      "lastName": "Forsythe",
+      "gender": "none",
+      "fav": true
+    },
+    {
+      "id": 4,
+      "firstName": "Nate",
+      "lastName": "Schutta",
+      "gender": "male",
+      "fav": true
+    },
+    {
+      "firstName": "Tina",
+      "lastName": "Ish",
+      "gender": "rather not say",
+      "fav": true,
+      "id": 5
+    },
+    {
+      "firstName": "Stephanie",
+      "lastName": "Ish",
+      "gender": "female",
+      "fav": true,
+      "id": 6
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Hacker",
+      "gender": "male",
+      "fav": true,
+      "id": 7
+    }
+  ]
+}
